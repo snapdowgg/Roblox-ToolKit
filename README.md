@@ -1,15 +1,8 @@
-# Crosshair Studio Pro (Roblox Toolkit)
 
-```
-  ____                                 _ _    _____ _                 
- / ___|___  _ __ ___  _ __   ___  _ __(_) |_ |___ /(_) ___ _ __  ___  
-| |   / _ \| '_ ` _ \| '_ \ / _ \| '__| | __|  |_ \| |/ _ \ '_ \/ __| 
-| |__| (_) | | | | | | |_) | (_) | |  | | |_  ___) | |  __/ | | \__ \ 
- \____\___/|_| |_| |_| .__/ \___/|_|  |_|\__||____/|_|\___|_| |_|___/ 
-                     |_|                                                
+# Live Preview:
+<img width="1396" height="841" alt="image" src="https://github.com/user-attachments/assets/51c15964-7b30-44a1-b81b-7865ccbe803d" />
 
-  Roblox crosshair overlay + booster utility (GUI)
-```
+
 
 By: @snapdowgg
 
