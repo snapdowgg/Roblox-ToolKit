@@ -1,12 +1,6 @@
 
-# Live Preview:
-<img width="1396" height="841" alt="image" src="https://github.com/user-attachments/assets/51c15964-7b30-44a1-b81b-7865ccbe803d" />
-
-
-
-By: @snapdowgg
-
-Small desktop app to create, preview and apply custom crosshair overlays on Windows while offering simple FPS/network tweak utilities.
+# Testing:
+[![Watch the video](https://img.youtube.com/vi/5zuxFAMid9s/maxresdefault.jpg)](https://youtu.be/5zuxFAMid9s)
 
 ---
 
@@ -46,6 +40,13 @@ After build the executable is in `bin/Debug/net10.0-windows` (or `Release`).
    - Click `Apply Changes` to update the overlay.
 4. In `Colors` you can pick a preset color or choose a custom color.
 5. Save presets in `Presets` and load them later.
+
+---
+
+# Preview:
+<img width="1396" height="841" alt="image" src="https://github.com/user-attachments/assets/51c15964-7b30-44a1-b81b-7865ccbe803d" />
+
+---
 
 Notes:
 - Presets are stored under `%APPDATA%/CrosshairStudio` as `.csp` JSON files.
